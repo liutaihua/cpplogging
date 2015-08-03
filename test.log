@@ -1,0 +1,33 @@
+NOTICE:(30/06/2015 22:27:32) Log reseted to test.log
+DEBUG:(30/06/2015 22:27:32) test 11111111
+NOTICE:(01/07/2015 22:02:58) Log reseted to test.log
+DEBUG:(01/07/2015 22:02:58) test 11111111
+NOTICE:(04/07/2015 22:44:34) Log reseted to test.log
+DEBUG:(04/07/2015 22:44:34) test 11111111
+NOTICE:(04/07/2015 22:56:03) Log reseted to test.log
+DEBUG:(04/07/2015 22:56:03) fffffffff 3.14159
+DEBUG:(04/07/2015 22:56:03) test log after reset log to ofstream file
+NOTICE:(04/07/2015 22:58:09) Log reseted to test.log
+DEBUG:(04/07/2015 22:58:09) fffffffff 3.14159
+DEBUG:(04/07/2015 22:58:09) test log after reset log to ofstream file
+NOTICE:(04/07/2015 23:00:11) Log reseted to test.log
+DEBUG:(04/07/2015 23:00:11) fffffffff 3.14159
+DEBUG:(04/07/2015 23:00:11) test log after reset log to ofstream file
+NOTICE:(04/07/2015 23:01:15) Log reseted to test.log
+DEBUG:(04/07/2015 23:01:15) fffffffff 3.14159
+DEBUG:(04/07/2015 23:01:15) test log after reset log to ofstream file
+NOTICE:(04/07/2015 23:06:38) Log reseted to test.log
+DEBUG:(04/07/2015 23:06:38) fffffffff 3.14159
+DEBUG:(04/07/2015 23:06:38) test log after reset log to ofstream file
+NOTICE:(14/07/2015 23:27:27) Log reseted to test.log
+DEBUG:(14/07/2015 23:27:27) fffffffff 3.14159
+DEBUG:(14/07/2015 23:27:27) test log after reset log to ofstream file
+NOTICE:(03/08/2015 11:38:27) Log reseted to test.log
+DEBUG:(03/08/2015 11:38:27) fffffffff 3.14159
+DEBUG:(03/08/2015 11:38:27) test log after reset log to ofstream file
+NOTICE:(03/08/2015 11:39:14) Log reseted to test.log
+DEBUG:(03/08/2015 11:39:14) fffffffff 3.14159
+DEBUG:(03/08/2015 11:39:14) test log after reset log to ofstream file
+NOTICE:(03/08/2015 11:40:44) Log reseted to test.log
+DEBUG:(03/08/2015 11:40:44) fffffffff 3.14159
+DEBUG:(03/08/2015 11:40:44) test log after reset log to ofstream file
