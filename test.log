@@ -31,3 +31,12 @@ DEBUG:(03/08/2015 11:39:14) test log after reset log to ofstream file
 NOTICE:(03/08/2015 11:40:44) Log reseted to test.log
 DEBUG:(03/08/2015 11:40:44) fffffffff 3.14159
 DEBUG:(03/08/2015 11:40:44) test log after reset log to ofstream file
+NOTICE:(10/08/2015 13:45:19) Log reseted to test.log
+DEBUG:(10/08/2015 13:45:19) fffffffff 3.14159
+DEBUG:(10/08/2015 13:45:19) test log after reset log to ofstream file
+NOTICE:(10/08/2015 13:45:32) Log reseted to test.log
+DEBUG:(10/08/2015 13:45:32) fffffffff 3.14159
+DEBUG:(10/08/2015 13:45:32) test log after reset log to ofstream file
+NOTICE:(10/08/2015 13:45:42) Log reseted to test.log
+DEBUG:(10/08/2015 13:45:42) fffffffff 3.14159
+DEBUG:(10/08/2015 13:45:42) test log after reset log to ofstream file
